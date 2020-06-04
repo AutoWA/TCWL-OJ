@@ -33,13 +33,13 @@ if ($OJ_ONLINE) {
             <div id="navbar" class="navbar-collapse collapse">
                 <ul class="nav navbar-nav">
                     <?php $ACTIVE = "active" ?>
-                    <?php if (!isset($OJ_ON_SITE_CONTEST_ID)) { ?>
+                    <!--<?php if (!isset($OJ_ON_SITE_CONTEST_ID)) { ?>
 
                         <li class="nav-item">
                             <a class=" nav-link" href="https://bbs.jmsu.xyz/"><i
                                         class="fas fa-comment-alt"></i> <?php echo $MSG_BBS ?></a></li>
 
-                    <?php } ?>
+                    <?php } ?>-->
 
                     <?php if (isset($OJ_PRINTER) && $OJ_PRINTER) { ?>
                         <li <?php if ($url == "printer.php") {
