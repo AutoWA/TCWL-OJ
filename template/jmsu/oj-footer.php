@@ -2,7 +2,7 @@
     <div class="container text-center">
         <div class="row align-items-center">
             <div class="col">
-                <img src='image/logo-jmsu.png' class="img-fluid" style="transform: scale(0.6);" alt='JMSU-ACM logo'>
+                <img src='image/logo-tcwl.png' class="img-fluid" style="transform: scale(0.6);" alt='JMSU-ACM logo'>
             </div>
             <div class="col-lg-6 small">
                 <span class="text-muted">童创未来 Online Judge V2.0.2 build200522</span><br>
